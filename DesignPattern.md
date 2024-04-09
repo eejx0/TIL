@@ -8,7 +8,7 @@
 </aside>
 
 → 유지보수 편리 & 확장성 좋은 웹
-
+ 
 → ex) MPA, SPA, SSR
 
 ### MPA
